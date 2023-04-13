@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" src="https://github.com/manish3203/manish3203/blob/main/Developer.jfif">
+<img align="center" alt="Coding" src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png">
 <h1 align="center">Hi 👋, I'm Manish Chavan</h1>
 <h3 align="center">Crafting Code And Building Solutions</h3>
 
