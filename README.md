@@ -6,9 +6,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **JAVA FRAMEWORK**
 
-- 💬 Ask me about **C/C++, Java, and Data Structure**
+- 💬 Ask me about **C/C++, Java, Data Structure & GIT**
 
 - 📫 How to reach me **manishchavan3203@gmail.com**
 
