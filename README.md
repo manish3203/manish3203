@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working on **JAVA DEVELOPMENT**
 
-- 💬 Ask me about **C/C++, Java, Data Structure & GIT**
+- 💬 Ask me about **C, Java, Data Structure & GIT**
 
 - 📫 How to reach me **manishchavan3203@gmail.com**
 
