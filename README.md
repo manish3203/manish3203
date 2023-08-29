@@ -1,4 +1,4 @@
-![logo](https://github.com/manish3203/manish3203/blob/main/Neon%20Pink%20Black%20Dark%20Aesthetic%20Minimal%20Technology%20Coding%20Twitter%20Header(1).png)
+![logo](https://github.com/manish3203/manish3203/blob/main/Neon%20Pink%20Black%20Dark%20Aesthetic%20Minimal%20Technology%20Coding%20Twitter%20Header.gif)
 <h1 align="center">Hi 👋, I'm Manish Chavan</h1>
 <h3 align="center">Crafting Code And Building Solutions</h3>
 
