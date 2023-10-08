@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C, Java, Data Structure & GIT**
 
-- 📫 How to reach me **manishchavan3203@gmail.com**
+- 📫 How to reach me **manishchavan639@gmail.com**
 
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
