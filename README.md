@@ -1,4 +1,4 @@
-![logo](https://github.com/manish3203/manish3203/blob/main/myTheame.gif)
+![logo](https://github.com/manish3203/manish3203/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Manish Chavan</h1>
 <h3 align="center">Crafting Code And Building Solutions</h3>
 
