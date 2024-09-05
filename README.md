@@ -6,11 +6,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **FLUTTER FRAMEWORK**
+- 🌱 I’m currently working on **FLUTTER FRAMEWORK**
 
-- 🌱 I’m currently working on **JAVA DEVELOPMENT**
-
-- 💬 Ask me about **C, Java, Data Structure & GIT**
+- 💬 Ask me about **Dart, Flutter, Java, Data Structure & GIT**
 
 - 📫 How to reach me **manishchavan639@gmail.com**
 
